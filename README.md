@@ -1,6 +1,6 @@
-### Hi there :sunny:
+### Hi there :sunflower:
 
-- 😄 My name is Julia, I'm 18 years old
+- :sunny: My name is Julia, I'm 18 years old
 
 - 🔭 I’m studying System Develompment at Coltec - UFMG
 
