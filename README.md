@@ -1,4 +1,4 @@
-### Hi there :sunflower:
+### Hi there! :sunflower:
 
 - :sunny: My name is Julia, I'm 18 years old
 
