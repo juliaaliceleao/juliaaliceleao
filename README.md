@@ -1,5 +1,4 @@
-![Uploading image.png…](![image](https://user-images.githubusercontent.com/104568516/183493082-1823333f-92d8-4bbd-95cc-3439d810f6f6.png)
-)
+
 ### Hi there! :sunflower:
 
 - :sunny: My name is Julia, I'm 18 years old
@@ -10,3 +9,6 @@
 
 
 -✨juliaaliceleao/juliaaliceleao ✨
+![coxinha-pratica-1024x576](https://user-images.githubusercontent.com/104568516/183493220-be914f1b-a491-4398-b1ea-b9cbfa72baa6.jpg)
+[coxinha-pratica-1024x576](https://user-images.githubusercontent.com/104568516/183493220-be914f1b-a491-4398-b1ea-b9cbfa72baa6.jpg)
+[coxinha-pratica-1024x576](https://user-images.githubusercontent.com/104568516/183493220-be914f1b-a491-4398-b1ea-b9cbfa72baa6.jpg)
