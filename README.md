@@ -5,6 +5,6 @@
 
 - 🔭 I’m studying System Develompment at Coltec - UFMG
 
-- 🌱 I’m currently learning C, HTML, CSS and Python
+- 🌱 I’m currently learning Java, C#, HTML, CSS and Python
 
 -✨juliaaliceleao/juliaaliceleao ✨
