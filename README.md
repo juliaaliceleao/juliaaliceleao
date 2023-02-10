@@ -13,3 +13,4 @@
 <div align="center">
     ✨juliaaliceleao/juliaaliceleao✨
 </div>
+![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
