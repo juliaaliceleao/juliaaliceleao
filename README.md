@@ -2,12 +2,13 @@
   # Ei! tudo joia?
   :sunflower:
 <!--Descrição sobre mim-->
- </div>
+ <div>
 -  ✨ Meu nome é Julia, tenho dezoito anos de idade.
 
 -  🔭 Curso Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
   
 - 🌱 Atualmente estou aprendendo Python, Java, C#, CSS e JavaScript.
+</div>
 
 <!--Linguagens-->
 ## Aqui vai algumas das linguagens que eu mais uso:
@@ -20,7 +21,7 @@
    
    
 <!--Aplicações das Linguagens-->
-<div></div>
+   
 ## Alguns trabalhos bacanas que eu participei:
    <a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
 
