@@ -3,18 +3,17 @@
   :sunflower:
   
 <!--Descrição sobre mim-->
-## Meu nome é Julia, tenho 18 anos de idade...
- <div>
+-  ✨ Meu nome é Julia, tenho 18 anos de idade.
+
 -  🔭 Curso Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
-  
-- 🌱 Atualmente estou aprendendo Python, Java, C#, CSS e JavaScript.
-</div>
+ 
+-  🌱 Atualmente estou aprendendo Python, Java, C#, CSS e JavaScript.
 
 <!--Linguagens-->
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
 </div>
  
 ## Aqui vai algumas das linguagens que eu mais uso:
