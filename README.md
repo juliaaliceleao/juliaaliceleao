@@ -1,14 +1,15 @@
  
-  # Julia Alice Leão 
+  # Ei! tudo joia?
   :sunflower:
 
  </div>
-- My name is Julia, I'm 18 years old
+- Meu nome é julia e eu tenho dezoito anos de idade.
   
-- 🔭 I’m studying System Develompment at <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec - UFMG </a>
+- 🔭 Eu curso Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
   
-- 🌱 I’m currently learning Java, C#, HTML, CSS and Python
-  
+- 🌱 Estou aprendendo Python, Java e C# no momento.
+
+Algumas das linguagens que eu mais domino:
   <p> 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao" />
   <p>
