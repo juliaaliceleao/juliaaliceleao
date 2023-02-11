@@ -1,5 +1,6 @@
  
   :sunflower:
+  ##Julia Alice Leão
  </div>
 - My name is Julia, I'm 18 years old
   
@@ -13,4 +14,3 @@
 <div align="center">
     ✨juliaaliceleao/juliaaliceleao✨
 </div>
-![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
