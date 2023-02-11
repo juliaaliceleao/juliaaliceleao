@@ -1,6 +1,7 @@
  
+  # Julia Alice Leão 
   :sunflower:
-  Julia Alice Leão
+
  </div>
 - My name is Julia, I'm 18 years old
   
