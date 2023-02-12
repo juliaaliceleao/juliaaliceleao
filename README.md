@@ -16,16 +16,16 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 ## Aqui vai algumas das linguagens e ferramentas que eu mais uso:
 <div>
-  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img aalt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aalt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img aalt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=radical&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" /></a>"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=radical&langs_count=8"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wjuliaaliceleao&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=radical)
+  
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
