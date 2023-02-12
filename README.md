@@ -11,7 +11,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 - Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
 <div align="center">
-<img height="20" width="20" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
+<img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
 </div>
 
 <!--Linguagens-->
@@ -41,6 +41,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
    🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
+ 
    🔬<a href="https://github.com/arturgonzaga320/Codigo_Genetico">- Interpretação do Codigo Genético Celular em C - BioInformática</a>
 <!--Meios de Contato-->
 ## Contato:
