@@ -1,5 +1,6 @@
  
- <!--README Julia Alice Leão-->
+ <!--README Julia Alice Leão
+afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia?
   :sunflower: 
   
