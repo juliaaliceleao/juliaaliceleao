@@ -11,7 +11,8 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 -  🌱 Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
-![pngwing com](https://user-images.githubusercontent.com/104568516/218292869-e36e4b2f-03fb-43bf-bd18-eff8c6712c44.png)
+<img height="50" width="50" src="pngwing com(1)](https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
+
 
 <!--Linguagens-->
 
