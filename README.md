@@ -23,9 +23,8 @@ afazeres: arrumar os contatos e o gif de estrelas-->
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wjuliaaliceleao&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=radical)
-  
+https://github-readme-stats.vercel.app/api?username=Wjuliaaliceleao&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=radical)
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
@@ -34,7 +33,5 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <!--Meios de Contato-->
 ## Contato:
  ✨<a href="www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
- 
  ✨<a href="[www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/](https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"> Currículo</a>
- 
- ✨<a href="http://lattes.cnpq.br/0461199353404904"> Currículo Lattes</a>
+ ✨<a href="http://lattes.cnpq.br/0461199353404904"> Lattes</a>
