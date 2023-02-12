@@ -4,11 +4,11 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia? :sunflower: 
   
 <!--Descrição sobre mim-->
--  ✨ Meu nome é Julia, tenho 18 anos de idade.
+- Meu nome é Julia, tenho 18 anos de idade.
 
--  🔭 Curso Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
+- Curso Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
  
--  🌱 Atualmente estou aprendendo Python, Java, C# e JavaScript.
+- Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
 <div align="center">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
