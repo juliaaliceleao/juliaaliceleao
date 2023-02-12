@@ -12,8 +12,8 @@
 <!--Linguagens-->
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
 </div>
  
 ## Aqui vai algumas das linguagens que eu mais uso:
@@ -25,4 +25,6 @@
    <a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
 
 ## Contato:
-    ✨LinkedIn: https://www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/ ✨
+    ✨LinkedIn:  <a href="https://www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/">✨ Julia Alice Leão </a>
+    ✨Curriculo:  <a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Curriculo Julia Alice Leão </a>
+    ✨Curriculo Lattes:  <a href="http://lattes.cnpq.br/0461199353404904"> Lattes Julia Alice Leão </a>✨
