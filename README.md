@@ -34,8 +34,8 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 </div>
 <div align="center">
-<img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&line_height=20langs_count=8" />
-<img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&line_height=20&langs_count=8" />
+<img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&show_icons=true&bg_color=00000000&hide_border=true&line_height=20langs_count=8" />
+<img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8" />
 </div>
 
 <!--Aplicações das Linguagens-->
