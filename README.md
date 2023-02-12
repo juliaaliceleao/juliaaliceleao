@@ -23,9 +23,12 @@ afazeres: arrumar os contatos e o gif de estrelas-->
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
+
+<div align="center">
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&line_height=20langs_count=8" />
 <img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&line_height=20&langs_count=8" />
-   
+</div>
+
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
    🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
