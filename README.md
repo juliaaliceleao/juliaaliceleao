@@ -9,6 +9,8 @@
  
 -  🌱 Atualmente estou aprendendo Python, Java, C#, CSS e JavaScript.
 
+![image](https://user-images.githubusercontent.com/104568516/218289364-6722b02c-e03a-4aaf-a6dd-dd50ca1fb197.png)
+
 <!--Linguagens-->
 <div>
 <a href="https://github.com/seu-usuário-aqui">
