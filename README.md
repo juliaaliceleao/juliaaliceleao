@@ -23,8 +23,8 @@ afazeres: arrumar os contatos e o gif de estrelas-->
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
-<img  alt="Stats" src+"https://github-readme-stats.vercel.app/api?username=Wjuliaaliceleao&show_icons=true&theme=react&show_icons=true&theme=transparent&bg_color=00000000"/>
-<img  alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=radical&theme=transparent&bg_color=00000000" />
+<img  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Wjuliaaliceleao&show_icons=true&theme=react&show_icons=true&bg_color=00000000" />
+<img  alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=react&bg_color=00000000" />
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
