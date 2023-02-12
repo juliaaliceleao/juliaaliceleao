@@ -12,7 +12,7 @@
 <!--Linguagens-->
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
 </div>
  
