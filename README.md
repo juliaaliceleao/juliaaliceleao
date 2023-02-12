@@ -11,7 +11,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 - Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
 <div align="center">
-<img height="50" width="50" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
+<img height="20" width="20" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
 </div>
 
 <!--Linguagens-->
