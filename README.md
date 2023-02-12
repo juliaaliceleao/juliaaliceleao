@@ -1,8 +1,7 @@
  
  <!--README Julia Alice Leão
 afazeres: arrumar os contatos e o gif de estrelas-->
- # Ei! tudo joia?
-  :sunflower: 
+ # Ei! tudo joia? :sunflower: 
   
 <!--Descrição sobre mim-->
 -  ✨ Meu nome é Julia, tenho 18 anos de idade.
