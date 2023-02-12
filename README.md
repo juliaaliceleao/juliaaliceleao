@@ -14,7 +14,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png">
 
 
- <img alt="Um Tweet escrito LGBTI= lésbicas, gays e técnicos de informática" height="180em"src="https://user-images.githubusercontent.com/104568516/218325621-31b399c7-caed-4e82-a656-4b70dae60c98.png">
+ <img alt="Um Tweet escrito LGBTI= lésbicas, gays e técnicos de informática" height="180em" src="https://user-images.githubusercontent.com/104568516/218325621-31b399c7-caed-4e82-a656-4b70dae60c98.png"/>
 </div>
  
  
