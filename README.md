@@ -23,8 +23,8 @@ afazeres: arrumar os contatos e o gif de estrelas-->
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
-<img  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&show_icons=true&bg_color=00000000&hide_border=true" />
-<img  alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true" />
+<img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true" />
+<img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" />
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
@@ -32,9 +32,10 @@ afazeres: arrumar os contatos e o gif de estrelas-->
    
 <!--Meios de Contato-->
 ## Contato:
- ✨<a href="www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
- ✨<a href="[www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/](https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"> Currículo</a>
+<a href = "www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"><img alt="Linkedin src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30em"></a>
+  <a href = "mailto:aliceleaojulia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30em"></a>
+ ✨<a href="[](https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"> Currículo</a>
  ✨<a href="http://lattes.cnpq.br/0461199353404904"> Lattes</a>
- 
+  
  ##
  ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
