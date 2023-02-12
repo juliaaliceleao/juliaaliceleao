@@ -28,10 +28,13 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&la
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
-   <a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
+   🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
    
 <!--Meios de Contato-->
 ## Contato:
  ✨<a href="www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
  ✨<a href="[www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/](https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"> Currículo</a>
  ✨<a href="http://lattes.cnpq.br/0461199353404904"> Lattes</a>
+ 
+ ##
+ ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
