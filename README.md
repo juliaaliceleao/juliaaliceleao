@@ -13,7 +13,9 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 
 <!--Linguagens-->
 
+ ![gifs-de-estrelas-caindo-5](https://user-images.githubusercontent.com/104568516/218292797-c820ca1b-38c1-4904-8b34-dd8f2a3db9ef.gif)
  
+
 ## Aqui vai algumas das linguagens e ferramentas que eu mais uso:
 <div>
   <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -25,7 +27,6 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
  
 </div>
-
 <div align="center">
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=github_dark&show_icons=true&bg_color=00000000&hide_border=true&line_height=20langs_count=8" />
 <img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&line_height=20&langs_count=8" />
