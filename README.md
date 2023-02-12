@@ -1,5 +1,6 @@
  
-  # Ei! tudo joia?
+ <!--README Julia Alice Leão-->
+ # Ei! tudo joia?
   :sunflower: 
   
 <!--Descrição sobre mim-->
@@ -9,11 +10,8 @@
  
 -  🌱 Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
-![](https://user-images.githubusercontent.com/104568516/218289364-6722b02c-e03a-4aaf-a6dd-dd50ca1fb197.png)
-
 <!--Linguagens-->
 <div>
-<a href="https://github.com/seu-usuário-aqui">
 <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
 </div>
@@ -25,7 +23,8 @@
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
    <a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
-
+   
+<!--Meios de Contato-->
 ## Contato:
     ✨<a href="https://www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
     ✨<a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Currículo</a>
