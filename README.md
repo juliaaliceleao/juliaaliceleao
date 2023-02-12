@@ -25,6 +25,6 @@
    <a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
 
 ## Contato:
-    ✨<a href="https://www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn </a>
-    ✨<a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Currículo </a>
- ✨<a href="http://lattes.cnpq.br/0461199353404904"> Currículo Lattes </a>
+    ✨<a href="https://www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
+    ✨<a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Currículo</a>
+ ✨<a href="http://lattes.cnpq.br/0461199353404904">Currículo Lattes</a>
