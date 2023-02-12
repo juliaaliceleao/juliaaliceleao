@@ -11,14 +11,15 @@
 -  🌱 Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
 <!--Linguagens-->
+
+ 
+## Aqui vai algumas das linguagens e ferramentas que eu mais uso:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+
 <div>
 <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao"/>
 </div>
- 
-## Aqui vai algumas das linguagens e ferramentas que eu mais uso:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
-  
    
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
@@ -26,6 +27,5 @@
    
 <!--Meios de Contato-->
 ## Contato:
-    ✨<a href="www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
-    ✨<a href="www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Currículo</a>
+ ✨<a href="www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251/"> LinkedIn</a>
  ✨<a href="http://lattes.cnpq.br/0461199353404904"> Currículo Lattes</a>
