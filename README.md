@@ -9,7 +9,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 - Eu tô cursando Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
  
 - Atualmente estou aprendendo Python, Java, C# e JavaScript.
-- 
+
 <div align="center">
 <img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"
 </div>
@@ -29,8 +29,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  <div style="display: inline_block">
   
   
- 
-##
+
 <div align="center">
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
 <img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8icon_color=#f9bc2f"/>
