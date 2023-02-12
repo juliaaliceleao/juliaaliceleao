@@ -24,7 +24,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
   <img alt= "java" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img aalt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img alt="Unity" align= "center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
  <div style="display: inline_block"><br>
   
   
