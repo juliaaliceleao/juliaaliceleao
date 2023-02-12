@@ -41,7 +41,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
    🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
-   
+   🔬<a href="https://github.com/arturgonzaga320/Codigo_Genetico">- Interpretação do Codigo Genético Celular em C - BioInformática</a>
 <!--Meios de Contato-->
 ## Contato:
  ✨<a href = "www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251"> Linkedin</a>
