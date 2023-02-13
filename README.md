@@ -44,7 +44,9 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  ✨<a href = "mailto:aliceleaojulia@gmail.com"> Gmail</a>
  ✨<a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Currículo</a>
  ✨<a href="http://lattes.cnpq.br/0461199353404904"> Lattes</a>
-  </div>
+  
   
   ##
  ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
