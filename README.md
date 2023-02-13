@@ -2,7 +2,7 @@
  <!--README Julia Alice Leão
 afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia? :sunflower: 
-  
+ <div align="center">
 <!--Descrição sobre mim-->
 - Meu nome é Julia, tenho 18 anos de idade e esse é meu GitHub.
 
@@ -10,7 +10,6 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 - Atualmente estou aprendendo Python, Java, C# e JavaScript.
 
-<div align="center">
 <img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png">
 
  
@@ -45,5 +44,4 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  ✨<a href="https://www.canva.com/design/DAFVgg9w7r4/GirjJMHbzFFZ-b779xZ2Fg/view?utm_content=DAFVgg9w7r4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> Currículo</a>
  ✨<a href="http://lattes.cnpq.br/0461199353404904"> Lattes</a>
   </div>
- ##
  ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
