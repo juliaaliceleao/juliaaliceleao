@@ -2,7 +2,7 @@
  <!--README Julia Alice Leão
 afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia? :sunflower: 
- <div align="center">
+
 <!--Descrição sobre mim-->
 - Meu nome é Julia, tenho 18 anos de idade e esse é meu GitHub.
 
@@ -16,21 +16,21 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 <!--Linguagens-->
 ## Aqui vai algumas das linguagens e ferramentas que eu mais uso:
-<div>
+<div style="display: inline_block">
   <img alt= "C" align= "center" height= "30" width= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img alt="C#" align= "center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt= "java" align= "center" height= "30" width= "39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt= "html" align= "center" height= "30" width= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt= "css"  align= "center" height= "30" width= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img alt="Unity" align= "center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
- <div style="display: inline_block">
+ </div >
   
   
 
 <div align="center">
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
 <img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8icon_color=#f9bc2f"/>
-</div>
+
 
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
