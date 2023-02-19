@@ -15,7 +15,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <div align="center">
 <img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"/>
  
-<img alt="imagem de um menino computador com o texto 'nome: felipe habilidade: quebrar códigos'"src="https://pbs.twimg.com/media/EUDCMVKXkAkA6C1?format=jpg&name=small"/>
+<img alt="imagem de um menino computador com o texto nome: felipe habilidade: quebrar códigos"src="https://pbs.twimg.com/media/EUDCMVKXkAkA6C1?format=jpg&name=small"/>
 </div>
 
  
