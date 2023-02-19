@@ -14,8 +14,6 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <!--Coracao-->
 <div align="center">
 <img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"/>
- 
-<img height="30%" width="50%" alt="imagem de um menino computador com o texto nome: felipe habilidade: quebrar códigos" src="https://user-images.githubusercontent.com/104568516/219909416-491d58bd-74bf-42b5-87b8-e04a66f20f6b.png"/>
 </div>
 
  
@@ -35,6 +33,10 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
 <img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8icon_color=#f9bc2f"/>
 
+ <!--Felipe quebrador de código-->
+ <div align="center">
+<img height="10%" width="30%" alt="imagem de um menino computador com o texto nome: felipe habilidade: quebrar códigos" src="https://user-images.githubusercontent.com/104568516/219909416-491d58bd-74bf-42b5-87b8-e04a66f20f6b.png"/>
+</div>
 
 <!--Aplicações das Linguagens-->
 ## Alguns trabalhos bacanas que eu participei:
