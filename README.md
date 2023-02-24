@@ -46,7 +46,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
  
 <!--Meios de Contato-->
 ##  Mais informações tem aqui ó:
- 👥<www.linkedin.com/in/julia-alice-le%C3%A3o-2ab440251
+
  💬<a href = "mailto:aliceleaojulia@gmail.com"> Gmail</a>
  
  <!--Animação da Cobrinha-->
