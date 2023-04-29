@@ -2,23 +2,9 @@
  <!--README Julia Alice Leão
 afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia? :sunflower: 
-
-<!--Descrição sobre mim-->
-- Meu nome é Julia,  esse é meu GitHub.
-
 - Eu tô cursando Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
  
-- Atualmente estou aprendendo Python, Java, C# e JavaScript.
-
-
-<!--Coracao-->
-<div align="center">
-<img height="30" width="30" src="https://user-images.githubusercontent.com/104568516/218292926-b9646902-f88f-4914-8262-629c39987f41.png"/>
-</div>
-
- 
 <!--Linguagens-->
-## Aqui vai algumas das linguagens e ferramentas que eu to mexendo:
 <div style="display: inline_block" align="center">
   <img alt= "C" align= "center" height= "30" width= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
   <img alt="C#" align= "center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -43,12 +29,6 @@ afazeres: arrumar os contatos e o gif de estrelas-->
    🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
  
    🔬<a href="https://github.com/arturgonzaga320/Codigo_Genetico">- Interpretação do Codigo Genético Celular em C - BioInformática</a>
- 
-<!--Meios de Contato-->
-##  Mais informações tem aqui ó:
-
- 💬<a href = "mailto:aliceleaojulia@gmail.com"> Gmail</a>
- 
  <!--Animação da Cobrinha-->
   ##
  ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
