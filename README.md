@@ -2,7 +2,7 @@
  <!--README Julia Alice Leão
 afazeres: arrumar os contatos e o gif de estrelas-->
  # Ei! tudo joia? :sunflower: 
-- Eu tô cursando Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
+- Meu nome é Julia e eu tô cursando Desenvolvimento de Sistemas (System Develompment) no <a href="http://www.coltec.ufmg.br/coltec-ufmg/">Coltec (Colégio Técnico) - UFMG </a>
  
 <!--Linguagens-->
 <div style="display: inline_block" align="center">
