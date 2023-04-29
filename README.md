@@ -28,7 +28,7 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 ## Algumas coisas bacanas que eu participei e fiz:
    🎮<a href="https://github.com/juliaaliceleao/PongGameMusical-C-Sharp">- Criação do Jogo Pong Versão Musical - Unity</a>
  
-   🔬<a href="https://github.com/arturgonzaga320/Codigo_Genetico">- Interpretação do Codigo Genético Celular em C - BioInformática</a>
+   🔬<a href="https://github.com/arturgonzaga320/Codigo_Genetico">- Interpretação do Codigo Genético Celular em C - Bio e Info</a>
  <!--Animação da Cobrinha-->
   ##
  ![Snake Animation](https://github.com/juliaaliceleao/juliaaliceleao/blob/output/github-contribution-grid-snake.svg)
