@@ -17,7 +17,6 @@ afazeres: arrumar os contatos e o gif de estrelas-->
 <!--Status e Frequencia no GitHub-->
 <div align="center">
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaaliceleao&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
-<img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaaliceleao&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8icon_color=#f9bc2f"/>
 
  <!--Felipe quebrador de código-->
  <div align="center">
